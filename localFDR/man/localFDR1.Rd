@@ -25,12 +25,12 @@ localFDR (p.values, threshold, prior.fdr, tolerance, ...)
   Object of class numeric of the same length as the p.values argument. Each element represents an estimate of the local false discovery rate corresponding to a null hypothesis. 
 }
 \references{
-Bickel, David R. (2004) Error-Rate and Decision-Theoretic Methods of Multiple Testing: Which Genes Have High Objective Probabilities of Differential Expression?, \emph{ Statistical Applications in Genetics and Molecular Biology} \bold{ 3}: Iss. 1, Article 8 . Available on-line at \url{ http://www.bepress.com/sagmb/vol3/iss1/art8}
+Bickel, David R. (2004) Error-Rate and Decision-Theoretic Methods of Multiple Testing: Which Genes Have High Objective Probabilities of Differential Expression?, \emph{ Statistical Applications in Genetics and Molecular Biology} \bold{ 3}: Iss. 1, Article 8 . Available on-line at \url{http://www.bepress.com/sagmb/vol3/iss1/art8}
 
  Bickel, D. R. (2004) "HighProbability determines which alternative hypotheses are highly probable: Genomic applications include detection of differential gene expression," arXiv.org e-print ID q-bio.QM/0402049. Available  on-line at \url{http://arxiv.org/abs/q-bio.QM/0402049} 
 }
-\author{  Zahra Montazeri (\email{zahra@math.carleton.ca}),  David R. Bickel (\email{DavidBickel.66846716@bloglines.com}, \url{http://www.davidbickel.com
-}) }
+\author{  Zahra Montazeri (\email{zahra@math.carleton.ca}),  David R. Bickel (\email{DavidBickel.66846716@bloglines.com}, 
+\url{http://www.davidbickel.com}) }
 \seealso{ \code{\link{priorFDR}}, \code{\link{find.alternative.prob.threshold}}, \code{\link{t.test}}, \code{\link{wilcox.test}}, \code{\link{cor.test}}, \code{\link{lm}}, \code{\link{sample}} }
 \examples{
 n.variables <- 10000

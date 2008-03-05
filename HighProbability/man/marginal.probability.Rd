@@ -24,8 +24,7 @@
  }
 
 
-\author{ David R. Bickel (\email{DavidBickel.66846716@bloglines.com}, \url{http://www.davidbickel.com
-}) , Zahra Montazeri (\email{zahra@math.carleton.ca}) }
+\author{ David R. Bickel (\email{DavidBickel.66846716@bloglines.com}, \url{http://www.davidbickel.com}) , Zahra Montazeri (\email{zahra@math.carleton.ca}) }
 \seealso{This function is used by \code{\link{alternative.probable}} and \code{\link{alternative.beneficial}}.}
 \keyword{ htest}
 \keyword{nonparametric}

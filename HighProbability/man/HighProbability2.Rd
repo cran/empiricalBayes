@@ -15,7 +15,6 @@
 }
 \references{
 	 }
-\author{ David R. Bickel (\email{DavidBickel.66846716@bloglines.com}, \url{http://www.davidbickel.com
-}),  Zahra Montazeri (\email{zahra@math.carleton.ca})  }
+\author{ David R. Bickel (\email{DavidBickel.66846716@bloglines.com}, \url{http://www.davidbickel.com}),  Zahra Montazeri (\email{zahra@math.carleton.ca})  }
 \seealso{\code{\link{marginal.probability}}}
 \keyword{ htest}

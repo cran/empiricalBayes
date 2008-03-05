@@ -20,13 +20,13 @@ priorFDR (p.values, ...)
   The return value is a numeric vector of length 1 representing the estimate of the proportion of null hypotheses that are true. It is an empirical Bayes estimate of the prior probability that any given null hypothesis is true.
 }
 \references{
-Bickel, David R. (2004) Error-Rate and Decision-Theoretic Methods of Multiple Testing: Which Genes Have High Objective Probabilities of Differential Expression?, \emph{ Statistical Applications in Genetics and Molecular Biology} \bold{ 3}: Iss. 1, Article 8 . Available on-line at \url{ http://www.bepress.com/sagmb/vol3/iss1/art8}
+Bickel, David R. (2004) Error-Rate and Decision-Theoretic Methods of Multiple Testing: Which Genes Have High Objective Probabilities of Differential Expression?, \emph{ Statistical Applications in Genetics and Molecular Biology} \bold{ 3}: Iss. 1, Article 8 . Available on-line at \url{http://www.bepress.com/sagmb/vol3/iss1/art8}
 
  Bickel, D. R. (2004) "HighProbability determines which alternative hypotheses are highly probable: Genomic applications include detection of differential gene expression," arXiv.org e-print ID q-bio.QM/0402049. Available  on-line at \url{http://arxiv.org/abs/q-bio.QM/0402049} 
  }
 
-\author{  Zahra Montazeri (\email{zahra@math.carleton.ca}),  David R. Bickel (\email{DavidBickel.66846716@bloglines.com}, \url{http://www.davidbickel.com
-}) }
+\author{  Zahra Montazeri (\email{zahra@math.carleton.ca}),  David R. Bickel (\email{DavidBickel.66846716@bloglines.com}, 
+\url{http://www.davidbickel.com}) }
 \seealso{ \code{\link{localFDR}}, \code{\link{t.test}}, \code{\link{wilcox.test}}, \code{\link{cor.test}}, \code{\link{lm}}, \code{\link{sample}}
 \code{\link[HighProbability]{marginal.probability}}
  }

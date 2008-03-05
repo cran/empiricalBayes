@@ -17,7 +17,6 @@ Important functions:
 \code{\link{alternative.beneficial}} determines which alternative hypotheses should be accepted according to a decision-theoretic approach.
 }
 
-\author{ David R. Bickel (\email{DavidBickel.66846716@bloglines.com}, \url{http://www.davidbickel.com
-}) , Zahra Montazeri (\email{zahra@math.carleton.ca})
+\author{ David R. Bickel (\email{DavidBickel.66846716@bloglines.com}, \url{http://www.davidbickel.com}) , Zahra Montazeri (\email{zahra@math.carleton.ca})
  } 
 \keyword{package}

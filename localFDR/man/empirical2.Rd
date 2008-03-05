@@ -18,8 +18,8 @@
 }
 \references{
 	None }
-\author{ Zahra Montazeri(\email{zahra@math.carleton.ca}), David R. Bickel (\email{DavidBickel.66846716@bloglines.com}, \url{http://www.davidbickel.com
-}) }
+\author{ Zahra Montazeri(\email{zahra@math.carleton.ca}), David R. Bickel (\email{DavidBickel.66846716@bloglines.com},
+ \url{http://www.davidbickel.com}) }
 \seealso{This function is used by \code{\link{find.alternative.prob.threshold}}, \code{\link{priorFDR}} and \code{\link{localFDR}}.}
 \keyword{ htest}
 \keyword{nonparametric}

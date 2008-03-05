@@ -30,12 +30,11 @@ alternative.beneficial(p.values, cost.to.benefit=1, marginal.probability = NULL,
   Each of these functions returns a logical vector with the same length as p.values. If an element in the vector is TRUE, then the corresponding p-value is low enough to warrant considering its alternative hypothesis true. The vector returned indicates which null hypotheses are considered true and which are considered false, based either on belief (for alternative.probable) or on a cost/benefit decision analysis (for alternative.beneficial).
 }
 \references{
-Bickel, David R. (2004) Error-Rate and Decision-Theoretic Methods of Multiple Testing: Which Genes Have High Objective Probabilities of Differential Expression?, \emph{ Statistical Applications in Genetics and Molecular Biology} \bold{ 3}: Iss. 1, Article 8 . Available on-line at \url{ http://www.bepress.com/sagmb/vol3/iss1/art8}
+Bickel, David R. (2004) Error-Rate and Decision-Theoretic Methods of Multiple Testing: Which Genes Have High Objective Probabilities of Differential Expression?, \emph{ Statistical Applications in Genetics and Molecular Biology} \bold{ 3}: Iss. 1, Article 8 . Available on-line at \url{http://www.bepress.com/sagmb/vol3/iss1/art8}
 
  Bickel, D. R. (2004) "HighProbability determines which alternative hypotheses are highly probable: Genomic applications include detection of differential gene expression," arXiv.org e-print ID q-bio.QM/0402049. Available  on-line at \url{http://arxiv.org/abs/q-bio.QM/0402049} 
  }
-\author{ David R. Bickel (\email{DavidBickel.66846716@bloglines.com}, \url{http://www.davidbickel.com
-}) , Zahra Montazeri (\email{zahra@math.carleton.ca}) } 
+\author{ David R. Bickel (\email{DavidBickel.66846716@bloglines.com}, \url{http://www.davidbickel.com}) , Zahra Montazeri (\email{zahra@math.carleton.ca}) } 
 \seealso{ \code{\link{marginal.probability}}, \code{\link{t.test}}, \code{\link{wilcox.test}}, \code{\link{cor.test}}, \code{\link{lm}}, \code{\link{sample}} }
 \examples{
 n.variables <- 10000
