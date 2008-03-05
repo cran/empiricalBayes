@@ -1,0 +1,8 @@
+Package: localFDR
+Title: localFDR estimates the local false discovery rates corresponding to 	each null hypothesis and the proportion of null hypotheses that are 	true given a vector of p-values
+Description: localFDR is a powerful approach to find the local false 		    discovery rate for a given list of p-values. This package also 	    gives the proportion of null hypotheses that are true, when a 	    list of p-values is given.
+            localFDR depends on Highprobability package to choose the 
+            proportion of alternative hypotheses that are true. The p-value 
+            vector may be determined using existing R functions such as 	    t.test,  wilcox.test, cor.test, or sample. localFDR can 		    be used for problems involving to test a large number of null 	    hypotheses.
+Depends: HighProbability
+

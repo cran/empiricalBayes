@@ -1,0 +1,9 @@
+Package: HighProbability
+Title:  HighProbability determines which alternative hypotheses have 		empirical Bayes probabilities sufficiently high for acceptance		given a list of p-values 
+Description: HighProbability provides a simple, fast, reliable solution to 	the multiple testing problem. Given a vector of p-values or 		achieved significance levels computed using standard frequentist 	inference, HighProbability determines which ones are low enough 	that their alternative hypotheses can be considered highly 		probable. The p-value vector may be determined using existing R 	functions such as t.test, wilcox.test, cor.test, or sample. 		HighProbability can be used to detect differential gene expression 	and to solve other problems involving a large number of 
+	hypothesis tests.
+
+
+
+
+
